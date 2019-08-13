@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "my-serverless-blog-dev-20190813190255-authRole",
+            "UnauthRoleArn": "arn:aws:iam::191859071174:role/my-serverless-blog-dev-20190813190255-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::191859071174:role/my-serverless-blog-dev-20190813190255-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "my-serverless-blog-dev-20190813190255-deployment",
+            "UnauthRoleName": "my-serverless-blog-dev-20190813190255-unauthRole",
+            "StackName": "my-serverless-blog-dev-20190813190255",
+            "StackId": "arn:aws:cloudformation:us-east-1:191859071174:stack/my-serverless-blog-dev-20190813190255/25c34e30-bda9-11e9-a766-0ad7f2019cc4"
+        }
+    }
+}
